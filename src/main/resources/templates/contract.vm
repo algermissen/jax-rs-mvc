@@ -1,0 +1,12 @@
+<html>
+<body>
+<title>Contract Details</title>
+<h1>Contract</h1>
+
+User ID: $entity.userId<br/>
+<br/>
+Contract ID: $entity.contractId <br/>
+Contract Status: $entity.status
+
+</body>
+</html>
